@@ -39,10 +39,12 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **RTL LOGIC FOR FL
 IPFLOPS**
+![gate](https://github.com/user-attachments/assets/f3faaef1-4a7a-43a3-a69f-587a302b7822)
 
-![gate](https://github.com/user-attachments/assets/fcfdc662-5e50-4fe2-8404-d07686af1042)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![wave](https://github.com/user-attachments/assets/ceab30f5-0a74-4521-8b9a-702d0742b132)
 
 
 **RESULTS**
