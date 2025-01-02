@@ -63,6 +63,11 @@ IPFLOPS**
 
 
 **RESULTS**
+
+
+
+
+
 The D flip-flop was successfully implemented in Verilog, and its functionality was validated with the truth table and timing diagrams. The output Q correctly follows the input D on each rising clock edge.
 
 
